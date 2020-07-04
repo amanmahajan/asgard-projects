@@ -1,0 +1,5 @@
+rootProject.name = 'asgard-projects'
+
+include 'asgard-projects-server'
+include 'asgard-projects-distribution'
+include 'asgard-projects-api'
